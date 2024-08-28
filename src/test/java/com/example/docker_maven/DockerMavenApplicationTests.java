@@ -15,7 +15,7 @@ class DockerMavenApplicationTests {
     void contextLoads() {
         logger.info("Test case executing...");
         logger.info("Test case executing second statements ...");
-        assertEquals(2, 1+1);
+        assertEquals(9, 1+1);
     }
 
 }
